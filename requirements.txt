@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+lifelines
+shap
+plotly
+seaborn
+matplotlib
+ipykernel
